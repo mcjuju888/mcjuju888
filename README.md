@@ -58,15 +58,15 @@ I build things that actually get used and solve real problems.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+---
+
+### 🐍 Contribution Snake
+
+![snake animation](https://raw.githubusercontent.com/mcjuju888/mcjuju888/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 📊 GitHub Stats
+### 📫 Connect
 
-<img src="https://github-readme-stats.vercel.app/api?username=mcjuju888&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcjuju888&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
----
-
-Portfolio: jaipatel.net
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jai-patel06)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://jaipatel.net)
